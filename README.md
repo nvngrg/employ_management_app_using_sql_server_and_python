@@ -1,9 +1,9 @@
-🧑‍💼 Employee Management System
+# 🧑‍💼 Employee Management System
 
 This is a desktop-based Employee Management System built using Python Tkinter for the frontend and SQL Server for the backend. 
 The app allows you to add, update, delete, search, and export employee records easily through a graphical interface.
 
-**🚀 Features**
+# **🚀 Features**
 
 --> Add new employees to the SQL Server database
 
@@ -17,7 +17,7 @@ The app allows you to add, update, delete, search, and export employee records e
 
 --> Intuitive and user-friendly GUI
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 -> Frontend: Python Tkinter
 
@@ -27,13 +27,13 @@ The app allows you to add, update, delete, search, and export employee records e
 
 -> CSV Export: csv module
 
-**📷 UI Preview**
+# **📷 UI Preview**
 
  Data base image:- ![image](https://github.com/user-attachments/assets/233bd5e4-09c6-4f7c-8658-b0f69e2494ff)
 
  Output image:- ![image](https://github.com/user-attachments/assets/98c71e10-7e25-484f-9737-ccc6bd2ba5b5)
 
-⚙️ Setup Instructions
+# ⚙️ Setup Instructions
 
 1. Clone the repository 
 
@@ -72,7 +72,7 @@ The app allows you to add, update, delete, search, and export employee records e
 
     Run the app
 
-**💡 Future Enhancements**
+# **💡 Future Enhancements**
 
   * Add login authentication
   
