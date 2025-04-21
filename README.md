@@ -37,7 +37,7 @@ The app allows you to add, update, delete, search, and export employee records e
 
 1. Clone the repository 
 
-  git clone https://github.com/nwngrg/employee-management-app.git
+  git clone https://github.com/nvngrg/employ_management_app_using_sql_server_and_python/blob/main/emp_reg.py
   cd employee-management-app
 
 **2. Install Python dependencies**
